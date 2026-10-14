@@ -9,10 +9,7 @@
       "root": "deploy/docker/backend",
       "framework": "express"
     },
-    "wallpaper-helper": {
-      "root": "packaging/windows/wallpaper-helper",
-      "runtime": "rust"
-    },
+    
     "sync-server": {
       "root": "sync-server",
       "framework": "hono"
